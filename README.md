@@ -1,6 +1,8 @@
-# local-dev-dashboard
+# Local Dev Dashboard
 
 A simple interface to manage your local development projects
+
+![Alt text](/screenshots/screenshot1.jpg "Screenshot")
 
 ## Overview
 
@@ -17,5 +19,3 @@ I created this to help me stay a little more organized and stop creating so many
 ## Notes
 
 - Everything in the project.json file get put into an associative array, so go nuts and add more stuff to it to suit your needs. Reference it in the index.php file as $project['info'][nutty_extra_info_label]
-
-![Alt text](/screenshots/screenshot1.jpg "Screenshot")
