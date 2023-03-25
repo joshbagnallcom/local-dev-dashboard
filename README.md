@@ -17,3 +17,5 @@ I created this to help me stay a little more organized and stop creating so many
 ## Notes
 
 - Everything in the project.json file get put into an associative array, so go nuts and add more stuff to it to suit your needs. Reference it in the index.php file as $project['info'][nutty_extra_info_label]
+
+![Screenshot 1](/screenshots/screenshot1.png)
